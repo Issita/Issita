@@ -27,11 +27,11 @@ I am a dedicated Data Analyst with a strong foundation in transforming complex d
 "I believe that well-analyzed data is the foundation of sound decision-making. My approach combines technical proficiency with business acumen to uncover insights that create measurable value."
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/rudranarayana-samal-440196360/)
-[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/qr/I4WWMOGGBZT5G1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_n_samal) 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rudranarayanasamal0011@gmail.com)
-<a href="tel:+919078225834">📞</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/issita-priyadarsini-3a482a223/)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/issitapriyadarsini/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:issitapriyadarsiniofficial@gmail.com)
+<a href="tel:+918260457167">📞</a>
 
 
 
